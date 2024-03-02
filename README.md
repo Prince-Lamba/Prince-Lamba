@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Lamba</h1>
-<h3 align="center">A curious an passionate engineer</h3>
+<h3 align="center">A curious and passionate engineer</h3>
 
 - 🌱 I’m currently learning **MERN**
 
