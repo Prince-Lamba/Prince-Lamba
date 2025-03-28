@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **princelamba6677@gmail.com**
+- 📫 How to reach me **princelamba4455@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
